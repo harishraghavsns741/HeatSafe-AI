@@ -1,0 +1,5 @@
+case_id,temperature_c,relative_humidity_pct,notes
+demo_01,27,35,Illustrative low-condition input
+demo_02,32,55,Illustrative moderate-condition input
+demo_03,38,65,Illustrative high-condition input
+demo_04,43,70,Illustrative extreme-condition input
